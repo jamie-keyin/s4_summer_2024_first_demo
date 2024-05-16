@@ -7,7 +7,6 @@ public class Car {
     private boolean active;
 
     public Car() {
-        this.active = true;
     }
 
     public String getTeamName() {
